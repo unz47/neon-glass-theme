@@ -2,7 +2,7 @@
   "manifestVersion": 2,
   "id": "neon-glass",
   "name": "Neon Glass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Frosted glass themes for Orca, dark and light, lit by a neon pink accent. With matching terminal colors.",
   "license": "MIT",
   "repository": "https://github.com/unz47/neon-glass-theme",
