@@ -1,0 +1,49 @@
+{
+  "manifestVersion": 2,
+  "id": "neon-glass",
+  "name": "Neon Glass",
+  "version": "1.0.0",
+  "description": "Frosted glass themes for Orca, dark and light, lit by a neon pink accent. With matching terminal colors.",
+  "license": "MIT",
+  "repository": "https://github.com/unz47/neon-glass-theme",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "themes": [
+      {
+        "id": "neon-glass-dark",
+        "title": "Neon Glass Dark",
+        "path": "themes/neon-glass-dark.json"
+      },
+      {
+        "id": "neon-glass-light",
+        "title": "Neon Glass Light",
+        "path": "themes/neon-glass-light.json"
+      },
+      {
+        "id": "neon-glass-clear-dark",
+        "title": "Neon Glass Clear Dark",
+        "path": "themes/neon-glass-clear-dark.json"
+      },
+      {
+        "id": "neon-glass-clear-light",
+        "title": "Neon Glass Clear Light",
+        "path": "themes/neon-glass-clear-light.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "neon-glass-dark",
+        "title": "Neon Glass Dark",
+        "path": "terminal/neon-glass-dark.json"
+      },
+      {
+        "id": "neon-glass-light",
+        "title": "Neon Glass Light",
+        "path": "terminal/neon-glass-light.json"
+      }
+    ]
+  }
+}

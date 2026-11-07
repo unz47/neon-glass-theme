@@ -1,0 +1,4 @@
+node_modules/
+.orca/
+__pycache__/
+.DS_Store
